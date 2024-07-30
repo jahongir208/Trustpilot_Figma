@@ -1,0 +1,575 @@
+@media (max-width: 1300px) {
+    .mixin {
+        flex-wrap: wrap;
+        gap: 30px;
+        .lini {
+            display: none;
+        }
+    }
+    .mid {
+        flex-direction: column;
+        text-align: center;
+        margin: auto;
+        justify-content: center;
+        gap: 50px !important;
+        .mid1 {
+            text-align: center;
+            margin: auto;
+        }
+        .mid2 {
+            text-align: center;
+            margin: 20px auto;
+            .minus1 {
+                a {
+                    text-align: center;
+                }
+                p {
+                    text-align: center;
+                }
+            }
+            .minus2 {
+                a {
+                    text-align: center;
+                }
+                p {
+                    text-align: center;
+                }
+            }
+            .minus3 {
+                a {
+                    text-align: center;
+                }
+                p {
+                    text-align: center;
+                }
+            }
+        }
+    }
+}
+@media (max-width: 1200px) {
+    .margin {
+        flex-direction: column-reverse;
+        .margin1 {
+            text-align: center;
+            margin: 40px auto;
+            h1 {
+                text-align: center !important;
+            }
+            p {
+                text-align: center !important;
+            }
+            button {
+                text-align: center !important;
+                margin: 30px auto;
+            }
+        }
+    }
+    .under-header {
+        height: 1400px !important;
+    }
+    .home {
+        flex-direction: column-reverse;
+        margin: 200px 0px;
+
+        .home1 {
+            text-align: center;
+            margin: 40px auto;
+
+            h1 {
+                text-align: center !important;
+            }
+            p {
+                text-align: center !important;
+            }
+            button {
+                text-align: center !important;
+                margin: 30px auto;
+            }
+        }
+    }
+    .article {
+        margin: 1500px 0px 0px !important;
+    }
+    .last-one {
+        .first-blood {
+            flex-direction: column;
+            gap: 20px;
+            .blood2 {
+                text-align: center;
+                margin: auto;
+                .h1 {
+                    text-align: center !important;
+                }
+                p {
+                    text-align: center !important;
+                }
+                button {
+                    text-align: center !important;
+                    margin: 20px auto;
+                }
+            }
+        }
+    }
+    .under-water {
+        height: 1300px !important;
+    }
+    .house {
+        margin: 100px 0px;
+        flex-direction: column-reverse;
+        .house1 {
+            margin: 40px auto;
+            text-align: center;
+            h1 {
+                text-align: center !important;
+            }
+            p {
+                text-align: center;
+            }
+            button {
+                text-align: center;
+                margin: 20px auto;
+            }
+        }
+    }
+    .finish {
+        margin: 1420px 0px 0px !important;
+    }
+    .flex {
+        flex-direction: column;
+        .flex2 {
+            h1 {
+                text-align: center !important;
+            }
+            .brain {
+                text-align: center;
+                margin: auto;
+            }
+            button {
+                text-align: center;
+                margin: 40px auto;
+            }
+        }
+    }
+}
+@media (max-width: 710px) {
+    .margin2 img {
+        width: 400px;
+    }
+    .margin1 {
+        width: 400px !important;
+    }
+    .margin1 h1 {
+        font-size: 40px !important;
+        line-height: 50px !important;
+        span {
+            font-size: 40px !important;
+        }
+    }
+    .home2 img {
+        width: 400px;
+    }
+    .home1 {
+        width: 400px !important;
+        .br {
+            img {
+                top: -50px !important;
+                width: 300px !important;
+            }
+        }
+    }
+    .home1 h1 {
+        font-size: 40px !important;
+        line-height: 50px !important;
+    }
+    .house {
+        .house1 {
+            width: 400px !important;
+            .bar {
+                img {
+                    top: -50px !important;
+                    width: 300px !important;
+                }
+            }
+        }
+        .house2 {
+            img {
+                width: 400px !important;
+            }
+        }
+    }
+    .flex {
+        .flex2 {
+            .enter-text {
+                padding: 100px 50px !important;
+            }
+            h1 {
+                font-size: 37px !important;
+                span {
+                    font-size: 37px !important;
+                }
+            }
+        }
+    }
+    .mid2{
+        justify-content: center !important;
+        flex-wrap: wrap;
+    }
+}
+@media (max-width: 650px) {
+    .box3 {
+        display: block !important;
+    }
+    .box2 {
+        a {
+            display: none;
+        }
+    }
+    .blood1 {
+        img {
+            width: 400px !important;
+        }
+    }
+    .blood2 {
+        width: 430px !important;
+        h1 {
+            font-size: 35px !important;
+        }
+        p {
+            font-size: 15px !important;
+        }
+    }
+    .mother{
+        flex-direction: column;
+        gap: 50px;
+        .mother1{
+            h4{
+                text-align: center !important;
+            }
+        }
+    }
+}
+@media (max-width: 550px) {
+    .p {
+        width: 300px !important;
+        font-size: 14px !important;
+    }
+    .small {
+        flex-direction: column !important;
+        gap: 20px;
+    }
+    .enter-text {
+        h1 {
+            font-size: 25px !important;
+            span {
+                font-size: 25px !important;
+            }
+        }
+    }
+}
+@media (max-width: 470px) {
+    .margin {
+        .margin1 {
+            width: 280px !important;
+        }
+        .margin2 {
+            img {
+                width: 300px;
+            }
+        }
+    }
+    .home {
+        .home1 {
+            width: 300px !important;
+        }
+        .home2 {
+            img {
+                width: 300px;
+            }
+        }
+    }
+
+    .card1 {
+        height: 300px !important;
+
+        img {
+            padding: 40px 10px !important;
+        }
+    }
+    .card2 {
+        height: 300px !important;
+
+        img {
+            padding: 40px 10px !important;
+        }
+    }
+    .card3 {
+        height: 300px !important;
+
+        img {
+            padding: 40px 10px !important;
+        }
+    }
+    .card4 {
+        height: 300px !important;
+
+        img {
+            padding: 40px 10px !important;
+        }
+    }
+    .trash1 {
+        height: 300px !important;
+
+        img {
+            padding: 40px 10px !important;
+        }
+    }
+    .trash2 {
+        height: 300px !important;
+
+        img {
+            padding: 40px 10px !important;
+        }
+    }
+    .blood1 {
+        img {
+            width: 270px !important;
+        }
+    }
+    .blood2 {
+        width: 270px !important;
+        h1 {
+            text-align: center !important;
+        }
+    }
+    .house {
+        .house1 {
+            width: 300px !important;
+            h1 {
+                font-size: 30px !important;
+            }
+        }
+        .house2 {
+            img {
+                width: 290px !important;
+            }
+        }
+    }
+}
+@media (max-width: 420px) {
+    .card1 {
+        height: 500px !important;
+        .strong {
+            flex-direction: column !important;
+            margin: auto;
+            text-align: center;
+            img {
+                margin: auto;
+                text-align: center;
+            }
+
+            .btns {
+                margin: 20px auto;
+                text-align: center;
+                justify-content: center;
+                button {
+                    text-align: center;
+                    margin: auto;
+                }
+            }
+        }
+    }
+    .card2 {
+        height: 500px !important;
+        .strong {
+            flex-direction: column !important;
+            margin: auto;
+            text-align: center;
+            img {
+                margin: auto;
+                text-align: center;
+            }
+            .btns {
+                margin: 20px auto;
+                text-align: center;
+                justify-content: center;
+                button {
+                    text-align: center;
+                    margin: auto;
+                }
+            }
+        }
+    }
+    .card3 {
+        height: 500px !important;
+        .strong {
+            flex-direction: column !important;
+            margin: auto;
+            text-align: center;
+            img {
+                margin: auto;
+                text-align: center;
+            }
+            .btns {
+                margin: 20px auto;
+                text-align: center;
+                justify-content: center;
+                button {
+                    text-align: center;
+                    margin: auto;
+                }
+            }
+        }
+    }
+    .card4 {
+        height: 500px !important;
+        .strong {
+            flex-direction: column !important;
+            margin: auto;
+            text-align: center;
+            img {
+                margin: auto;
+                text-align: center;
+            }
+            .btns {
+                margin: 20px auto;
+                text-align: center;
+                justify-content: center;
+                button {
+                    text-align: center;
+                    margin: auto;
+                }
+            }
+        }
+    }
+    .trash1 {
+        height: 500px !important;
+        .strong {
+            flex-direction: column !important;
+            margin: auto;
+            text-align: center;
+            img {
+                margin: auto;
+                text-align: center;
+            }
+            .btns {
+                margin: 20px auto;
+                text-align: center;
+                justify-content: center;
+                button {
+                    text-align: center;
+                    margin: auto;
+                }
+            }
+        }
+    }
+    .trash2 {
+        height: 500px !important;
+        .strong {
+            flex-direction: column !important;
+            margin: auto;
+            text-align: center;
+            img {
+                margin: auto;
+                text-align: center;
+            }
+            .btns {
+                margin: 20px auto;
+                text-align: center;
+                justify-content: center;
+                button {
+                    text-align: center;
+                    margin: auto;
+                }
+            }
+        }
+    }
+    .ok {
+        p {
+            text-align: center !important;
+        }
+    }
+}
+@media (max-width: 401px) {
+    .upper-nav {
+        height: 60px !important;
+    }
+    .responsive {
+        top: 150px !important;
+    }
+    .margin {
+        .margin2 {
+            img {
+                width: 270px !important;
+            }
+        }
+        .margin1 {
+            width: 260px !important;
+            h1 {
+                font-size: 30px !important;
+                span {
+                    font-size: 30px !important;
+                }
+            }
+        }
+    }
+    .home {
+        .br {
+            img {
+                width: 240px !important;
+                top: -10px;
+            }
+        }
+        .home2 {
+            img {
+                width: 270px !important;
+            }
+        }
+        .home1 {
+            width: 260px !important;
+            h1 {
+                font-size: 30px !important;
+            }
+        }
+    }
+    .mixin1 {
+        width: 290px !important;
+        img {
+            width: 300px !important;
+        }
+    }
+    .mixin2 {
+        width: 290px !important;
+        img {
+            width: 300px !important;
+        }
+    }
+    .mixin3 {
+        width: 290px !important;
+        img {
+            width: 300px !important;
+        }
+    }
+    .p {
+        width: 250px !important;
+    }
+    .house {
+        .house2 {
+            img {
+                width: 260px !important;
+            }
+        }
+
+        .house1 {
+            .bar {
+                img {
+                    width: 220px !important;
+                    top: -10px;
+                }
+            }
+            width: 260px !important;
+            h1 {
+                font-size: 25px !important;
+            }
+        }
+    }
+}
